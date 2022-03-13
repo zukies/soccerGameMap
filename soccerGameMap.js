@@ -38,8 +38,10 @@ for (const [time, event] of times) {
 const events1 = [...gameEvents.keys()];
 events2 = events1.push(10);
 console.log(events2);
-// const events3 = [...gameEvents.keys()];
-// console.log(events3);
+
+
+
+//Actual answers from Jonas (lecturer)
 
 //1)
 
